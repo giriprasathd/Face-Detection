@@ -14,7 +14,8 @@ OpenCV 3.4.3 was used with this project, suitable for Python 2.7.14. To determin
 pip install opencv-python
 
 
-see tis website for futher classification
+see thiswebsite for futher classification
+
 https://pypi.org/project/opencv-python/
 
 
